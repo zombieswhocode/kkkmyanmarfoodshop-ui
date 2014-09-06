@@ -7,10 +7,10 @@
 
     <!-- Main Container -->
     <div class="main-container container-fluid">
+    <!-- Page Container -->
+        <div class="page-container">
+
 <?php require "php-templates/sidebar.blade.php"; ?>
-
-
-
             <!-- Page Content -->
             <div class="page-content">
 

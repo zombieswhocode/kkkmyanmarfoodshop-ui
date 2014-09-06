@@ -297,30 +297,7 @@
                             <!-- /Account Area -->
                             <!--Note: notice that setting div must start right after account area list.
                             no space must be between these elements-->
-                            <!-- Settings -->
-                        </ul><div class="setting">
-                            <a id="btn-setting" title="Setting" href="#">
-                                <i class="icon glyphicon glyphicon-cog"></i>
-                            </a>
-                        </div><div class="setting-container">
-                            <label>
-                                <input type="checkbox" id="checkbox_fixednavbar">
-                                <span class="text">Fixed Navbar</span>
-                            </label>
-                            <label>
-                                <input type="checkbox" id="checkbox_fixedsidebar">
-                                <span class="text">Fixed SideBar</span>
-                            </label>
-                            <label>
-                                <input type="checkbox" id="checkbox_fixedbreadcrumbs">
-                                <span class="text">Fixed BreadCrumbs</span>
-                            </label>
-                            <label>
-                                <input type="checkbox" id="checkbox_fixedheader">
-                                <span class="text">Fixed Header</span>
-                            </label>
-                        </div>
-                        <!-- Settings -->
+
                     </div>
                 </div>
                 <!-- /Account Area and Settings -->
